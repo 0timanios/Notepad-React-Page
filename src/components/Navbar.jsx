@@ -1,5 +1,4 @@
 import React from 'react'
-import MenuIcon from "../assets/menu.svg?react";
 import CustomLink from './CustomLink';
 
 
